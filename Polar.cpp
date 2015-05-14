@@ -87,6 +87,7 @@ void __fastcall TForm3::Chart6DblClick(TObject *Sender)
 {
 if (ChartTool2->Active) {
 	ChartTool2->Active = false;
+	"eu que fiz porcaria"
 }
 else {
     ChartTool2->Active = true;
